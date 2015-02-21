@@ -1,0 +1,1 @@
+"./main.obj" "./IR_read.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
